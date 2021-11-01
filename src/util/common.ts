@@ -6,7 +6,7 @@ export const useLocale = (language?: string) =>
     if (language && isAvailableLanguage(language)) {
       return LANGUAGES[language].momentLocale || language;
     }
-    return 'en';
+    return 'kr';
   }, [language]);
 
 export const assembleSeoUrl = (pathname?: string): string => {

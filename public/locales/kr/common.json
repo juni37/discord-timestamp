@@ -1,13 +1,13 @@
 {
   "seoDescription": "디스코드 채팅에 사용할 수 있는 타임스탬프를 만들어보세요.",
-  "howTo": "날짜를 선택하시고, 나오는 결과값을 {{syntaxColName}} 칼럼에서 확인하신 뒤, 채팅에 붙여넣어보세요. 결과는 고유한 시간대에 따라 모든 사람에게 다르게 표시되는 동적 타임스탬프가 됩니다.",
+  "howTo": "날짜를 선택하시고, 나오는 결과값을 {{syntaxColName}} 칼럼에서 확인하신 뒤, 채팅에 붙여 넣어보세요. 결과는 고유한 시간대에 따라 모든 사람에게 다르게 표시되는 동적 타임스탬프가 됩니다.",
   "input": {
     "date": "날짜 및 시간",
     "timezone": "시간대"
   },
   "table": {
-    "syntax": "Chat syntax",
-    "example": "채팅에 입력하면 나오는 표시"
+    "syntax": "명령어",
+    "example": "명령어를 입력하면 나오는 채팅"
   },
   "changeLanguage": "언어 변경",
   "current": "현재",
@@ -16,7 +16,7 @@
     "content": "여기에는 아무것도 없답니다 ^^"
   },
   "builtWith": "웹사이트는 <1>Font Awesome Free</1>로 제작되었습니다.",
-  "openSource": "오픈소스 소프트웨어",
+  "openSource": "오픈소스",
   "viewSource": "소스코드 확인하기",
-  "notAffiliated": "이 프로젝트는 디스코드와 일절 연계되지 않았습니다."
+  "notAffiliated": "이 프로젝트는 개인 프로젝트로, 디스코드와 연계되지 않았습니다."
 }
